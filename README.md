@@ -1,4 +1,4 @@
-# P2P Share
+# Connectify
 
 Secure communications and file sharing over WebRTC. P2P Share is a simple web application that enables two peers to connect to each other over UDP protocol and share files, video call etc securely.
 
@@ -42,7 +42,3 @@ Secure communications and file sharing over WebRTC. P2P Share is a simple web ap
 - Copy the contents of ```.env.example``` to ```.env.local```
 - Add API keys to ```.env.local``` file such as Firebase API keys and server URL.
 - yarn install in both client and server folder
-
-### Screenshots
-
-![Main Dashboard](https://raw.githubusercontent.com/piyushgarg-dev/P2PShare/main/assets/images/ConnectMeP2P.png)
